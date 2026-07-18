@@ -1,0 +1,3 @@
+changes made to the parameter wont be seen in arguments that  is pass by value
+//arguments to parameter pass by value
+while values are returned from function  called is return by value

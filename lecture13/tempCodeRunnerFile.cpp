@@ -1,0 +1,1 @@
+  // if(max_idx > min_idx) moves--;
